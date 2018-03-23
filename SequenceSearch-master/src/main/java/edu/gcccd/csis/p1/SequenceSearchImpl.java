@@ -52,7 +52,12 @@ public class SequenceSearchImpl extends SequenceSearch {
 
     @Override
     public String displayStringArray() {
-       return null;
+       String [] temp = getAllTaggedSequences();
+       String display = "";
+       for (int i = 0; i< temp.length; i++){
+           display += temp[i] + " : " + temp[i].length();
+       }
+        return display;
     }
 
     @Override
