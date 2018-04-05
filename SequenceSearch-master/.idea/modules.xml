@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceSearch.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceSearch_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceSearch_main.iml" group="SequenceSearch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SequenceSearch_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SequenceSearch_test.iml" group="SequenceSearch" />
+    </modules>
+  </component>
+</project>
